@@ -26,4 +26,4 @@ There are the technologies used to develop this CRUD.
 ## Contributors
 
 - Jonathan Lemos [@JonLemOfficial](https://github.com/JonLemOfficial)
-- Johan Hurtado [@johannht2](https://github.com/johannht2
+- Johan Hurtado [@johannht2](https://github.com/johannht2)
