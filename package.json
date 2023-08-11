@@ -5,6 +5,30 @@
         "dev": "vite",
         "build": "vite build && vite build --ssr"
     },
+    "author": [
+        {
+            "name": "Jonathan \"JonLem\" Lemos",
+            "email": "jonlemofficial@hotmail.com",
+            "github": "https://github.com/JonLemOfficial",
+            "twitter": "https://twitter.com/JonLemOfficial"
+        },
+        {
+            "name": "Johan Hurtado",
+            "email": "johannenrique63@gmail.com",
+            "github": "https://github.com/johannht2"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JonLemOfficial/laravel-react-crud.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JonLemOfficial/laravel-react-crud/issues"
+    },
+    "engines": {
+        "node": ">= 16.15.0",
+        "npm": ">= 9.8.1"
+    },
     "devDependencies": {
         "@headlessui/react": "^1.4.2",
         "@inertiajs/react": "^1.0.0",
