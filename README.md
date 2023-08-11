@@ -14,4 +14,4 @@ A simple CRUD Application built with Laravel &amp; React to Create, Manage and S
 ## Contributors
 
 - Jonathan Lemos [@JonLemOfficial](https://github.com/JonLemOfficial)
-- Johan Salas [@JonLemOfficial](https://github.com/JonLemOfficial)
+- Johan Hurtado [@johannht2](https://github.com/johannht2)
