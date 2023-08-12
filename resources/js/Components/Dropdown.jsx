@@ -5,6 +5,7 @@ import { Transition } from '@headlessui/react';
 const DropDownContext = createContext();
 
 const Dropdown = ({ children }) => {
+
     const [open, setOpen] = useState(false);
 
     const toggleOpen = () => {
@@ -19,6 +20,7 @@ const Dropdown = ({ children }) => {
 };
 
 const Trigger = ({ children }) => {
+
     const { open, setOpen, toggleOpen } = useContext(DropDownContext);
 
     return (
@@ -31,6 +33,7 @@ const Trigger = ({ children }) => {
 };
 
 const Content = ({ align = 'right', width = '48', contentClasses = 'py-1 bg-white', children }) => {
+
     const { open, setOpen } = useContext(DropDownContext);
 
     let alignmentClasses = 'origin-top';
